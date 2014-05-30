@@ -1,0 +1,3 @@
+[submodule "lib/rustful"]
+	path = lib/rustful
+	url = https://github.com/Ogeon/rustful.git
