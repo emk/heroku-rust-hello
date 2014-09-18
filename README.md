@@ -1,5 +1,6 @@
-A sample Rust application which can be deployed to Heroku.  For
-instructions, please see
-[Deploying Rust applications to Heroku][instructions].
+This project is obsolete.  Please see
+[Deploying Rust applications to Heroku, with example code for Iron][instructions]
+and [heroku-rust-cargo-hello][] instead.
 
-[instructions]: http://www.randomhacks.net/2014/05/30/rust-heroku-rustful/
+[instructions]: http://www.randomhacks.net/2014/09/17/deploying-rust-heroku-iron/
+[heroku-rust-cargo-hello]: https://github.com/emk/heroku-rust-cargo-hello
